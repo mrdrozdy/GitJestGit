@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1650616017 source:/home/mrdrozdy/Pulpit/programy_c++/lab7/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<utility>
+	<locale.h>
+
